@@ -10,6 +10,7 @@
 .menu{
     background-color: transparent;
     transition: 1s;
+    color: aquamarine;
 }
 
 .menu2{
@@ -24,3 +25,4 @@
     border-radius: 20px;
    
 }
+                                                        
